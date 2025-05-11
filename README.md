@@ -1,7 +1,7 @@
 # 📦 YouTube Video Downloader (.bat)
 
 A simple, lightweight Windows batch script for downloading YouTube videos using **yt-dlp**.  
-This script provides a command-line interface where users can paste a video link and download it in MP4 format — no extra setup needed!
+This script provides a command-line interface where users can paste a video link and download it in MP4 format no extra setup needed!
 
 ---
 
@@ -11,7 +11,6 @@ This script provides a command-line interface where users can paste a video link
 - 📂 Save downloads to the **same folder where the batch file is located**.
 - 🖥️ Clean and beginner-friendly CMD interface.
 - ⚡ No installation needed — just download and run.
-- 📝 Clear credits included for **yt-dlp**.
 
 ---
 

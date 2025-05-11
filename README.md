@@ -25,8 +25,8 @@ This script provides a command-line interface where users can paste a video link
 
 ---
 ## 📜 Credits
-🔧 Modded by TamimRijan
-🚀 Powered by yt-dlp
+- 🔧 Modded by TamimRijan
+- 🚀 Powered by yt-dlp
 
 ## 📸 Screenshot
 

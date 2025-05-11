@@ -17,7 +17,7 @@ This script provides a command-line interface where users can paste a video link
 
 ## 📥 How to Use
 
-1. **Download** the `.bat` file from the [Releases](https://github.com/YourUsername/YourRepoName/releases) section.
+1. **Download** the `.bat` file from the [Releases](https://github.com/tamimrijan/Youtube-Downloader/releases/tag/Youtube_Video_Downloader) section.
 2. **Place it** in any folder you like.
 3. **Double-click** the `.bat` file.
 4. **Paste your YouTube video link** when prompted.

@@ -34,3 +34,7 @@ This script provides a command-line interface where users can paste a video link
 ----------------------------------------
 
 Enter YouTube link: https://youtube.com/...
+
+## 📜 Credits
+🔧 Modded by TamimRijan
+🚀 Powered by yt-dlp
